@@ -1,0 +1,34 @@
+/* This overrides the theme's css */
+
+.page {
+    max-width: 75em;
+}
+
+.page__body h1, .page__body h2 {
+    font-size: 1.2em;
+}
+
+.page__body h3, .page__body h4 {
+    font-size: 1.1em;
+}
+
+date,
+a.tax_link {
+    background: var(--inner-bg) !important;
+    font-family: var(--font-monospace);
+    color: var(--off-fg);
+
+}
+
+a.tax_link {
+    text-decoration: none;
+}
+
+a.tax_link:hover {
+    text-decoration: underline;
+}
+
+.post__meta {
+    padding-top:5px;
+    padding-bottom: 5px;
+}
