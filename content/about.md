@@ -1,8 +1,7 @@
 +++
 title = "About"
-
+menus = ["main"]
 aliases = ["contact"]
-author = "Isaac Doré"
 +++
 
 

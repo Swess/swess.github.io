@@ -3,7 +3,6 @@ title = "Home"
 description = "Isaac's personal lair. Software engineering, Game dev & Art."
 
 aliases = []
-author = "Isaac Doré"
 +++
 
 <mark>The site is still gradually being populated as I slowly add multiple relevant projects I've worked on in the past.</mark>
