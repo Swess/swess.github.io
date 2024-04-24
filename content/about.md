@@ -4,18 +4,14 @@ menus = ["main"]
 aliases = ["contact"]
 +++
 
-
-### From CV (To Adjust)
 I am a passionate software engineer that enjoys pushing the current technological boundaries with multiple years of professional software engineering & development.
 I'm driven by challenges that require creative thinking and structured solutions.
 
 I have had practical experiences delivering complex and reliable systems with small teams while maintaining high efficiency.
 I naturally take responsibility for the work's quality, which has led me to participate in architectural decisions.
 
-
 ---
 ## Past experiences
-You can download my CV [here]() (TODO).
 
 ### Studio Head @ [Canorous Interactive](http://canorousinteractive.com)
 `April 2022 - Present`
