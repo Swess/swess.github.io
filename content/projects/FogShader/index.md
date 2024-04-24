@@ -2,6 +2,7 @@
 title = 'Stylized Fog Shader'
 
 tags = ["Tech Art", "Graphics"]
+weight = 10
 +++
 
 Stylized fog shader made in Unity (URP 12.1.14).

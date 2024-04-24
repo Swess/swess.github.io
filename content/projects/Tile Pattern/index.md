@@ -3,6 +3,7 @@ title = 'Tile Pattern Tool'
 summary = "Procedural placement tool"
 
 tags = ["Tech Art", "Tools"]
+weight = 20
 +++
 
 ![](./roof_example.png)

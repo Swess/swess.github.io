@@ -2,6 +2,7 @@
 title = 'Half-Lambert Shader'
 
 tags = ["Graphics", "Tech Art"]
+weight = 10
 +++
 
 Created a fully customized lighting Uber shader for our current project at [Canorous Interactive](https://www.canorousinteractive.com/), supporting nearly all the same features as Unity's main Lit shader.

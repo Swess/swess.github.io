@@ -2,7 +2,7 @@
 title = 'Safeguard the realm'
 
 tags = ["GameJam"]
-weight = 1
+weight = 100
 +++
 
 A tower defense concept combined with an auto-battler in-game progression inspiration.

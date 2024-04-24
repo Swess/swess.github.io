@@ -3,6 +3,7 @@ title = 'Armageddon'
 summary = "Ludum Dare 42 Compo Entry"
 
 tags = ["GameJam"]
+weight = 80
 +++
 
 I participated in **Ludum Dare** 42 in the compo category where we have 48 hours to build a small game from scratch.

@@ -2,6 +2,7 @@
 title = 'Stylized Arcs & Sparkles VFX'
 
 tags = ["Tech Art", "Graphics", "VFX"]
+weight = 20
 +++
 
 A VFX shader and particle system for stylized arcs and sparkles made in Unity (URP 12.1.14).

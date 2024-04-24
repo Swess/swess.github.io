@@ -1,8 +1,8 @@
 +++
 title = 'ScreenSpace Simulation'
 
-
 tags = ["Tech Art", "Graphics", "VFX"]
+weight = 10
 +++
 
 This is a 2D simulation VFX driven by the pixel channels' values. From the initial snapshot, different channels and values are stored in texture buffers for the simulation to consume and modify.

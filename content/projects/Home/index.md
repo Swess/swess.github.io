@@ -2,6 +2,7 @@
 title = 'Home Project'
 
 tags = ["GameJam"]
+weight = 80
 +++
 
 Small atmospheric and unique survival game made with Unity for the Global GameJam 2019.
