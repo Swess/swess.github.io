@@ -1,0 +1,45 @@
+baseURL = 'https://swess.github.io/'
+languageCode = 'en-us'
+title = 'Swess'
+theme = 'risotto'
+sectionPagesMenu = 'main'
+enableInlineShortcodes = true
+
+
+[params.about]
+title = "Isaac Doré's lair"
+description = "Software development, Game dev & Art."
+
+[params.theme]
+palette = "tender"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-linkedin"
+title = "LinkedIn"
+url = "https://www.linkedin.com/in/isaac-dor%C3%A9-43489237/"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-github"
+title = "GitHub"
+url = "https://github.com/Swess"
+
+[[params.socialLinks]]
+icon = "fa-solid fa-envelope"
+title = "Email"
+url = "mailto:isaacswess@gmail.com"
+
+# [menu]
+# 
+#   [[menu.main]]
+#     identifier = "about"
+#     name = "About"
+#     url = "/about/"
+#     weight = 10
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+
+[markup.goldmark.renderer]
+unsafe = true
