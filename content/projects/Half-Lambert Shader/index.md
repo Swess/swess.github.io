@@ -1,5 +1,6 @@
 +++
 title = 'Half-Lambert Shader'
+summary = "A fully customized lighting Uber shader"
 
 tags = ["Graphics", "Tech Art"]
 weight = 10

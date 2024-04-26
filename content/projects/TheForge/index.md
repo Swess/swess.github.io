@@ -1,6 +1,6 @@
 +++
 title = 'The Forge Launcher'
-summary = "Game launcher"
+summary = "Worked on a game launcher in the past"
 
 tags = ["Application", "UI"]
 +++

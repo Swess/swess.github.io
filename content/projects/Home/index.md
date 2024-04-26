@@ -1,5 +1,6 @@
 +++
 title = 'Home Project'
+summary = "Small atmospheric and unique survival game made with Unity for the Global GameJam 2019."
 
 tags = ["GameJam"]
 weight = 80

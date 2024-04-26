@@ -1,5 +1,6 @@
 +++
 title = 'Stylized Fog Shader'
+summary = "Stylized fog shader made in Unity"
 
 tags = ["Tech Art", "Graphics"]
 weight = 10

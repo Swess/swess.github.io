@@ -1,5 +1,6 @@
 +++
 title = 'Safeguard the realm'
+summary = "Old game concept prototype combining tower defense with an auto-battler"
 
 tags = ["GameJam"]
 weight = 100

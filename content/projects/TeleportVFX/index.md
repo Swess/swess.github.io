@@ -1,5 +1,6 @@
 +++
 title = 'Stylized Arcs & Sparkles VFX'
+summary = "A VFX shader and particle system for stylized arcs and sparkles made in Unity"
 
 tags = ["Tech Art", "Graphics", "VFX"]
 weight = 20
