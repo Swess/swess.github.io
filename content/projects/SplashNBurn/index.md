@@ -1,12 +1,9 @@
 +++
 title = 'SplashNBurn'
-date = 2024-04-20T13:07:39-04:00
 draft = true
 
 tags = ["GameJam"]
 +++
-
-Weekend GameJam project made for a Concordia University GameJam back in 
 
 A game prototype made for the **Concordia Makes Games 2018 GameJam** in about 36 hours of development.
 
