@@ -3,7 +3,7 @@ title = 'Skybox Shader'
 summary = "A custom procedural skybox"
 
 tags = ["Tech Art", "Graphics"]
-width = 10
+weight = 10
 +++
 
 I developed a custom stylized procedural skybox for Unity. The sun's rendering is dynamically adjusted based on the position of the primary directional light in the scene. Additionally, it seamlessly integrates with scene fog settings, enhancing color blending at the horizon while offering control over various color parameters.
