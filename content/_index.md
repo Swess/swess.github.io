@@ -9,8 +9,8 @@ aliases = []
 
 --- 
 
-I'm a software engineer based in Canada, specializing in interactive systems. My journey began with a fascination for computer graphics, where I discovered the thrilling intersection of technology, high-performance software, and art.
+I’m a software engineer based in Canada, specializing in interactive and real-time systems. My work sits at the crossroads of technology, high-performance software, and art—rooted in a long-standing fascination with computer graphics and the systems that make them possible.
 
-With over 8 years of game development experience, including game jams, personal projects, rendering, and graphics techniques exploration, this passion culminated in the founding of [Canorous Interactive](https://www.canorousinteractive.com), my own small video game studio. Currently, we're immersed in crafting our first IP.
+With over 12 years of experience in software development, I’ve explored everything from rendering techniques and low-level systems programming to game jams and experimental projects. My professional work has often involved proprietary engines and unreleased software, so this site serves as a place to share select personal [projects](/projects), technical experiments, tools, and visual work.
 
-This site is central place where you can find some [projects](/projects) of mine. Since most of my professional software development work was on proprietary technologies or unreleased softwares, these are a mix of past projects, technical art, tools, and art. I will try to add more software projects, tutorials, and others in the future.
+I’m continually exploring new approaches to graphics, performance optimization, and game programming, and I plan to add more software projects, tutorials, and technical deep dives here over time.

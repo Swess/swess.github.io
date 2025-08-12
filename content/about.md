@@ -13,6 +13,14 @@ I naturally take responsibility for the work's quality, which has led me to part
 ---
 ## Past experiences
 
+### Lead Software Developer @ [Haply Robotics](https://www.haply.co/)
+`June 2024 - Present`
+
+Lead developer and architect of a high-performance haptic device management system, built in C++ & cross-platform.
+Designed and maintained a highly concurrent, low-latency backend server to interface with multiple real-time simulations and physical haptic hardware.
+
+Ultra-low-latency device control - Sustained ~8000Hz bidirectional data updates for multiple haptic endpoints via highly parallelized and asynchronous pipelines.
+
 ### Studio Head @ [Canorous Interactive](http://canorousinteractive.com)
 `April 2022 - Present`
 
